@@ -1,0 +1,20 @@
+﻿myMusicPlayer.UI.Wpf
+
+
+winexe
+C#
+.cs
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Release\net7.0-windows\
+myMusicPlayer.UI.Wpf
+none
+false
+TRACE;RELEASE;NET;NET7_0;NETCOREAPP
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\App.xaml
+9502447389
+
+19-516590177
+2111956318671
+UserControls\Playlist.xaml;UserControls\PopularSong.xaml;UserControls\SongItem.xaml;View\AlbumsView.xaml;View\ArtistsView.xaml;View\HomeView.xaml;View\MainWindow.xaml;View\PlaylistsView.xaml;View\SongsView.xaml;
+
+True
+

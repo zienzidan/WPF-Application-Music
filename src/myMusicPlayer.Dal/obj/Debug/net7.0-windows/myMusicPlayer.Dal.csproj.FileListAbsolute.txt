@@ -1,0 +1,24 @@
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.Dal\bin\Debug\net7.0-windows\myMusicPlayer.Dal.deps.json
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.Dal\bin\Debug\net7.0-windows\myMusicPlayer.Dal.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.Dal\bin\Debug\net7.0-windows\myMusicPlayer.Dal.pdb
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.Dal\obj\Debug\net7.0-windows\myMusicPlayer.Dal.csproj.AssemblyReference.cache
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.Dal\obj\Debug\net7.0-windows\myMusicPlayer.Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.Dal\obj\Debug\net7.0-windows\myMusicPlayer.Dal.AssemblyInfoInputs.cache
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.Dal\obj\Debug\net7.0-windows\myMusicPlayer.Dal.AssemblyInfo.cs
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.Dal\obj\Debug\net7.0-windows\myMusicPlayer.Dal.csproj.CoreCompileInputs.cache
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.Dal\obj\Debug\net7.0-windows\myMusicPlayer.Dal.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.Dal\obj\Debug\net7.0-windows\refint\myMusicPlayer.Dal.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.Dal\obj\Debug\net7.0-windows\myMusicPlayer.Dal.pdb
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.Dal\obj\Debug\net7.0-windows\ref\myMusicPlayer.Dal.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.Dal\bin\Debug\net7.0-windows\myMusicPlayer.Dal.deps.json
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.Dal\bin\Debug\net7.0-windows\myMusicPlayer.Dal.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.Dal\bin\Debug\net7.0-windows\myMusicPlayer.Dal.pdb
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.Dal\obj\Debug\net7.0-windows\myMusicPlayer.Dal.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.Dal\obj\Debug\net7.0-windows\myMusicPlayer.Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.Dal\obj\Debug\net7.0-windows\myMusicPlayer.Dal.AssemblyInfoInputs.cache
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.Dal\obj\Debug\net7.0-windows\myMusicPlayer.Dal.AssemblyInfo.cs
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.Dal\obj\Debug\net7.0-windows\myMusicPlayer.Dal.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.Dal\obj\Debug\net7.0-windows\myMusicPlayer.Dal.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.Dal\obj\Debug\net7.0-windows\refint\myMusicPlayer.Dal.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.Dal\obj\Debug\net7.0-windows\myMusicPlayer.Dal.pdb
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.Dal\obj\Debug\net7.0-windows\ref\myMusicPlayer.Dal.dll

@@ -1,0 +1,30 @@
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.Library\bin\Debug\net7.0-windows\myMusicPlayer.Library.deps.json
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.Library\bin\Debug\net7.0-windows\myMusicPlayer.Library.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.Library\bin\Debug\net7.0-windows\myMusicPlayer.Library.pdb
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.Library\bin\Debug\net7.0-windows\myMusicPlayer.Dal.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.Library\bin\Debug\net7.0-windows\myMusicPlayer.Dal.pdb
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.Library\obj\Debug\net7.0-windows\myMusicPlayer.Library.csproj.AssemblyReference.cache
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.Library\obj\Debug\net7.0-windows\myMusicPlayer.Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.Library\obj\Debug\net7.0-windows\myMusicPlayer.Library.AssemblyInfoInputs.cache
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.Library\obj\Debug\net7.0-windows\myMusicPlayer.Library.AssemblyInfo.cs
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.Library\obj\Debug\net7.0-windows\myMusicPlayer.Library.csproj.CoreCompileInputs.cache
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.Library\obj\Debug\net7.0-windows\myMusicPlayer.Library.csproj.CopyComplete
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.Library\obj\Debug\net7.0-windows\myMusicPlayer.Library.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.Library\obj\Debug\net7.0-windows\refint\myMusicPlayer.Library.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.Library\obj\Debug\net7.0-windows\myMusicPlayer.Library.pdb
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.Library\obj\Debug\net7.0-windows\ref\myMusicPlayer.Library.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.Library\bin\Debug\net7.0-windows\myMusicPlayer.Library.deps.json
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.Library\bin\Debug\net7.0-windows\myMusicPlayer.Library.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.Library\bin\Debug\net7.0-windows\myMusicPlayer.Library.pdb
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.Library\bin\Debug\net7.0-windows\myMusicPlayer.Dal.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.Library\bin\Debug\net7.0-windows\myMusicPlayer.Dal.pdb
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.Library\obj\Debug\net7.0-windows\myMusicPlayer.Library.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.Library\obj\Debug\net7.0-windows\myMusicPlayer.Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.Library\obj\Debug\net7.0-windows\myMusicPlayer.Library.AssemblyInfoInputs.cache
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.Library\obj\Debug\net7.0-windows\myMusicPlayer.Library.AssemblyInfo.cs
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.Library\obj\Debug\net7.0-windows\myMusicPlayer.Library.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.Library\obj\Debug\net7.0-windows\myMusicPlayer.Library.csproj.CopyComplete
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.Library\obj\Debug\net7.0-windows\myMusicPlayer.Library.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.Library\obj\Debug\net7.0-windows\refint\myMusicPlayer.Library.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.Library\obj\Debug\net7.0-windows\myMusicPlayer.Library.pdb
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.Library\obj\Debug\net7.0-windows\ref\myMusicPlayer.Library.dll

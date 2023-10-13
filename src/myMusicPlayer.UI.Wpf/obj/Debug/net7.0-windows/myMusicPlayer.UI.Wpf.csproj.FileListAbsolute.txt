@@ -1,0 +1,168 @@
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\myMusicPlayer.UI.Wpf.exe
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\myMusicPlayer.UI.Wpf.dll.config
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\myMusicPlayer.UI.Wpf.deps.json
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\myMusicPlayer.UI.Wpf.runtimeconfig.json
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\myMusicPlayer.UI.Wpf.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\myMusicPlayer.UI.Wpf.pdb
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\Csla.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\ar\Csla.resources.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\bs\Csla.resources.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\ca-ES\Csla.resources.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\da\Csla.resources.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\de\Csla.resources.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\el\Csla.resources.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\es-ES\Csla.resources.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\es\Csla.resources.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\fr\Csla.resources.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\he-IL\Csla.resources.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\hr\Csla.resources.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\hu\Csla.resources.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\it\Csla.resources.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\km-KH\Csla.resources.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\nl\Csla.resources.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\no\Csla.resources.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\pt-BR\Csla.resources.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\pt\Csla.resources.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\ro\Csla.resources.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\ru\Csla.resources.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\sr\Csla.resources.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\sv\Csla.resources.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\tr\Csla.resources.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\uk-UA\Csla.resources.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\vi\Csla.resources.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\zh-Hans\Csla.resources.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\zh-TW\Csla.resources.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\myMusicPlayer.Dal.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\myMusicPlayer.DalMock.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\myMusicPlayer.Library.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\myMusicPlayer.DalMock.pdb
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\myMusicPlayer.Dal.pdb
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\myMusicPlayer.Library.pdb
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\myMusicPlayer.UI.Wpf.csproj.AssemblyReference.cache
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\UserControls\Playlist.baml
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\UserControls\PopularSong.baml
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\UserControls\SongItem.baml
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\UserControls\Playlist.g.cs
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\UserControls\PopularSong.g.cs
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\UserControls\SongItem.g.cs
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\View\AlbumsView.g.cs
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\View\ArtistsView.g.cs
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\View\HomeView.g.cs
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\View\MainWindow.g.cs
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\View\PlaylistsView.g.cs
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\View\SongsView.g.cs
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\App.g.cs
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\myMusicPlayer.UI.Wpf_MarkupCompile.cache
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\myMusicPlayer.UI.Wpf_MarkupCompile.lref
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\App.baml
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\View\AlbumsView.baml
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\View\ArtistsView.baml
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\View\HomeView.baml
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\View\MainWindow.baml
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\View\PlaylistsView.baml
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\View\SongsView.baml
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\myMusicPlayer.UI.Wpf.g.resources
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\myMusicPlayer.UI.Wpf.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\myMusicPlayer.UI.Wpf.AssemblyInfoInputs.cache
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\myMusicPlayer.UI.Wpf.AssemblyInfo.cs
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\myMusicPlayer.UI.Wpf.csproj.CoreCompileInputs.cache
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\myMusicPlayer.UI.Wpf.csproj.CopyComplete
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\myMusicPlayer.UI.Wpf.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\refint\myMusicPlayer.UI.Wpf.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\myMusicPlayer.UI.Wpf.pdb
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\myMusicPlayer.UI.Wpf.genruntimeconfig.cache
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\ref\myMusicPlayer.UI.Wpf.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\myMusicPlayer.UI.Wpf.exe
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\myMusicPlayer.UI.Wpf.dll.config
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\myMusicPlayer.UI.Wpf.deps.json
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\myMusicPlayer.UI.Wpf.runtimeconfig.json
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\myMusicPlayer.UI.Wpf.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\myMusicPlayer.UI.Wpf.pdb
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\Csla.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\ar\Csla.resources.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\bs\Csla.resources.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\ca-ES\Csla.resources.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\da\Csla.resources.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\de\Csla.resources.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\el\Csla.resources.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\es-ES\Csla.resources.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\es\Csla.resources.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\fr\Csla.resources.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\he-IL\Csla.resources.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\hr\Csla.resources.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\hu\Csla.resources.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\it\Csla.resources.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\km-KH\Csla.resources.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\nl\Csla.resources.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\no\Csla.resources.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\pt-BR\Csla.resources.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\pt\Csla.resources.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\ro\Csla.resources.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\ru\Csla.resources.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\sr\Csla.resources.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\sv\Csla.resources.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\tr\Csla.resources.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\uk-UA\Csla.resources.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\vi\Csla.resources.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\zh-Hans\Csla.resources.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\zh-TW\Csla.resources.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\myMusicPlayer.Dal.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\myMusicPlayer.DalMock.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\myMusicPlayer.Library.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\myMusicPlayer.DalMock.pdb
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\myMusicPlayer.Dal.pdb
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\bin\Debug\net7.0-windows\myMusicPlayer.Library.pdb
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\myMusicPlayer.UI.Wpf.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\UserControls\Playlist.baml
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\UserControls\PopularSong.baml
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\UserControls\SongItem.baml
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\UserControls\Playlist.g.cs
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\UserControls\PopularSong.g.cs
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\UserControls\SongItem.g.cs
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\View\AlbumsView.g.cs
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\View\ArtistsView.g.cs
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\View\HomeView.g.cs
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\View\MainWindow.g.cs
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\View\PlaylistsView.g.cs
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\View\SongsView.g.cs
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\App.g.cs
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\myMusicPlayer.UI.Wpf_MarkupCompile.cache
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\myMusicPlayer.UI.Wpf_MarkupCompile.lref
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\App.baml
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\View\AlbumsView.baml
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\View\ArtistsView.baml
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\View\HomeView.baml
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\View\MainWindow.baml
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\View\PlaylistsView.baml
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\View\SongsView.baml
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\myMusicPlayer.UI.Wpf.g.resources
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\myMusicPlayer.UI.Wpf.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\myMusicPlayer.UI.Wpf.AssemblyInfoInputs.cache
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\myMusicPlayer.UI.Wpf.AssemblyInfo.cs
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\myMusicPlayer.UI.Wpf.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\myMusicPlayer.UI.Wpf.csproj.CopyComplete
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\myMusicPlayer.UI.Wpf.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\refint\myMusicPlayer.UI.Wpf.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\myMusicPlayer.UI.Wpf.pdb
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\myMusicPlayer.UI.Wpf.genruntimeconfig.cache
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.UI.Wpf\obj\Debug\net7.0-windows\ref\myMusicPlayer.UI.Wpf.dll

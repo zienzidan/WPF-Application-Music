@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LtukjuG8wnt2nY/vSK3yE0vNRfPR03InbDd5zPX3pq4GVzRVi6ubNrLniZh1XRCUZF6UH5uQWGwJU6/fIZHFPQ==",
+  "success": true,
+  "projectFilePath": "D:\\Kuliah\\Semester 5\\PBKK\\Tugas 6\\src\\myMusicPlayer.DalMock\\myMusicPlayer.DalMock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

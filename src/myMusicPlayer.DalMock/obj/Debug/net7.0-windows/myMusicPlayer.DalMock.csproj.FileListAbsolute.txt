@@ -1,0 +1,30 @@
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.DalMock\bin\Debug\net7.0-windows\myMusicPlayer.DalMock.deps.json
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.DalMock\bin\Debug\net7.0-windows\myMusicPlayer.DalMock.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.DalMock\bin\Debug\net7.0-windows\myMusicPlayer.DalMock.pdb
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.DalMock\bin\Debug\net7.0-windows\myMusicPlayer.Dal.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.DalMock\bin\Debug\net7.0-windows\myMusicPlayer.Dal.pdb
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.DalMock\obj\Debug\net7.0-windows\myMusicPlayer.DalMock.csproj.AssemblyReference.cache
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.DalMock\obj\Debug\net7.0-windows\myMusicPlayer.DalMock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.DalMock\obj\Debug\net7.0-windows\myMusicPlayer.DalMock.AssemblyInfoInputs.cache
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.DalMock\obj\Debug\net7.0-windows\myMusicPlayer.DalMock.AssemblyInfo.cs
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.DalMock\obj\Debug\net7.0-windows\myMusicPlayer.DalMock.csproj.CoreCompileInputs.cache
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.DalMock\obj\Debug\net7.0-windows\myMusicPlayer.DalMock.csproj.CopyComplete
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.DalMock\obj\Debug\net7.0-windows\myMusicPlayer.DalMock.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.DalMock\obj\Debug\net7.0-windows\refint\myMusicPlayer.DalMock.dll
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.DalMock\obj\Debug\net7.0-windows\myMusicPlayer.DalMock.pdb
+D:\Tugas Kuliah\myMusicPlayer\src\myMusicPlayer.DalMock\obj\Debug\net7.0-windows\ref\myMusicPlayer.DalMock.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.DalMock\bin\Debug\net7.0-windows\myMusicPlayer.DalMock.deps.json
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.DalMock\bin\Debug\net7.0-windows\myMusicPlayer.DalMock.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.DalMock\bin\Debug\net7.0-windows\myMusicPlayer.DalMock.pdb
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.DalMock\bin\Debug\net7.0-windows\myMusicPlayer.Dal.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.DalMock\bin\Debug\net7.0-windows\myMusicPlayer.Dal.pdb
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.DalMock\obj\Debug\net7.0-windows\myMusicPlayer.DalMock.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.DalMock\obj\Debug\net7.0-windows\myMusicPlayer.DalMock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.DalMock\obj\Debug\net7.0-windows\myMusicPlayer.DalMock.AssemblyInfoInputs.cache
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.DalMock\obj\Debug\net7.0-windows\myMusicPlayer.DalMock.AssemblyInfo.cs
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.DalMock\obj\Debug\net7.0-windows\myMusicPlayer.DalMock.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.DalMock\obj\Debug\net7.0-windows\myMusicPlayer.DalMock.csproj.CopyComplete
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.DalMock\obj\Debug\net7.0-windows\myMusicPlayer.DalMock.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.DalMock\obj\Debug\net7.0-windows\refint\myMusicPlayer.DalMock.dll
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.DalMock\obj\Debug\net7.0-windows\myMusicPlayer.DalMock.pdb
+D:\Kuliah\Semester 5\PBKK\Tugas 6\src\myMusicPlayer.DalMock\obj\Debug\net7.0-windows\ref\myMusicPlayer.DalMock.dll
